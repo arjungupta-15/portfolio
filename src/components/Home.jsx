@@ -34,6 +34,7 @@ const Home = () => {
         </div>
         <div className="right">
           <div className="img" data-aos="fade-up-left" data-aos-duration="1000">
+            <h1>hello dostu</h1>
             <img src={`/assets/${hero.imgSrc}`} alt="hero" />
           </div>
         </div>
