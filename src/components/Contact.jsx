@@ -16,23 +16,22 @@ const Contact = () => {
           data-aos="zoom-in-up"
           data-aos-duration="1000"
         >
-          <a href="https://www.google.com" target="_blank" className="items">
+          <a href="https://www.instagram.com/arjungupta_15/" target="_blank" className="items">
             <FaInstagram className="icons" />
           </a>
-          <a href="https://www.google.com" target="_blank" className="items">
-            <CiFacebook className="icons" />
-          </a>
-          <a href="https://www.google.com" target="_blank" className="items">
+          
+          
+          <a href="https://www.linkedin.com/in/arjun-gupta-513900284/" target="_blank" className="items">
             <CiLinkedin className="icons" />
           </a>
-          <a href="https://www.google.com" target="_blank" className="items">
+          <a href="https://x.com/arjungupta_05" target="_blank" className="items">
             <FaSquareXTwitter className="icons" />
           </a>
-          <a href="https://www.github.com" target="_blank" className="items">
+          <a href="https://github.com/arjungupta-15" target="_blank" className="items">
             <FaGithubSquare className="icons" />
           </a>
           <a
-            href="mailto:webdevmastery@gmail.com"
+            href="ag.arjunguta15@gmail.com"
             target="_blank"
             className="items"
           >
